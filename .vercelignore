@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.env.*
+data
+.browser-preview
+.preview
+.npm-cache
+*.log
+supabase

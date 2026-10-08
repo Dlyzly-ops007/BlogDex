@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*.local
+data/*
+!data/.gitkeep
+*.log
+.npm-cache/
+.browser-preview/
+.preview/
+.vercel/
+
+.vercel
+.env*
